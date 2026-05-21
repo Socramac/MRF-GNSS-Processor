@@ -1,0 +1,23 @@
+QWidget { font-family: "Segoe UI", Arial, sans-serif; font-size: 12px; color: #111827; }
+#sidebar { background: #0B2436; color: white; }
+#logo { color: white; font-size: 28px; font-weight: 800; padding: 10px 4px 18px 4px; }
+#navButton, #navButtonActive, #sideTool { text-align: left; border: 0; padding: 10px; border-radius: 6px; color: white; }
+#navButton { background: transparent; }
+#navButton:hover { background: rgba(255,255,255,0.08); }
+#navButtonActive { background: #0F5CAD; font-weight: 700; }
+#sideTool { background: rgba(255,255,255,0.06); }
+#topbar, #card { background: #FFFFFF; border: 1px solid #D7DEE8; border-radius: 6px; }
+#sectionTitle_blue { color: #1F4E79; font-weight: 800; font-size: 13px; }
+#sectionTitle_green { color: #166534; font-weight: 800; font-size: 13px; }
+#sectionTitle_purple { color: #4C1D95; font-weight: 800; font-size: 13px; }
+QPushButton { background: #F8FAFC; border: 1px solid #CBD5E1; border-radius: 5px; padding: 6px 10px; }
+QPushButton:hover { background: #EEF6FF; border-color: #1F4E79; }
+QTableWidget { background: white; gridline-color: #E5E7EB; selection-background-color: #DBEAFE; alternate-background-color: #F8FAFC; }
+QHeaderView::section { background: #F1F5F9; border: 1px solid #D7DEE8; padding: 5px; font-weight: 700; }
+#ibgeBox { background: #F8FAFC; border: 1px solid #D7DEE8; border-radius: 6px; color: #1F4E79; font-size: 20px; font-weight: 800; }
+#successBox { background: #F0FDF4; border: 1px solid #BBF7D0; border-radius: 6px; padding: 8px; color: #166534; font-weight: 700; }
+#value { font-weight: 700; }
+#metric { font-weight: 800; color: #0F172A; }
+#mapBox { background: #E2E8F0; border: 1px solid #CBD5E1; border-radius: 6px; min-height: 160px; }
+#console { background: #061B2A; color: #A7F3D0; font-family: Consolas, monospace; border-radius: 6px; }
+#footer { color: #334155; padding: 3px 8px; }

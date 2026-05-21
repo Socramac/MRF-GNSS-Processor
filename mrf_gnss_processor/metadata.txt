@@ -1,0 +1,15 @@
+[general]
+name=MRF GNSS Processor
+qgisMinimumVersion=3.34
+description=Processamento GNSS relativo estático/rápido-estático com PPP-IBGE, RINEX, RTKLIB/RNX2RTKP, QC técnico e integração MTGIR/SIGEF.
+version=0.1.0
+author=MRF Consultoria Ltda.
+email=marcos@mrfconsultoria.com.br
+about=Plugin profissional para pós-processamento GNSS relativo dentro do QGIS. Versão inicial com interface profissional, arquitetura modular, tema claro/escuro e estrutura preparada para RTKLIB/GFZRNX.
+category=Surveying
+icon=resources/icon.svg
+experimental=True
+deprecated=False
+tracker=
+repository=
+homepage=
